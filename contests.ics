@@ -79,10 +79,22 @@ SUMMARY:Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder
 DESCRIPTION:https://atcoder.jp/contests/abc459
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260529T153000
+DTEND;TZID=Asia/Kolkata:20260529T173000
+SUMMARY:Ⓗ AtCoder Heuristic Contest 066
+DESCRIPTION:https://atcoder.jp/contests/ahc066
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260531T173000
 DTEND;TZID=Asia/Kolkata:20260531T193000
 SUMMARY:AtCoder Regular Contest++ 221
 DESCRIPTION:https://atcoder.jp/contests/arc221
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260606T173000
+DTEND;TZID=Asia/Kolkata:20260606T193000
+SUMMARY:AtCoder Beginner Contest 461
+DESCRIPTION:https://atcoder.jp/contests/abc461
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260613T173000
