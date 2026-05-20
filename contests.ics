@@ -9,13 +9,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260523T200500
 DTEND;TZID=Asia/Kolkata:20260523T220500
-SUMMARY:Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)
+SUMMARY:Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2229
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260521T200500
 DTEND;TZID=Asia/Kolkata:20260521T220500
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1099 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2231
 END:VEVENT
 BEGIN:VEVENT
@@ -77,6 +77,12 @@ DTSTART;TZID=Asia/Kolkata:20260614T173000
 DTEND;TZID=Asia/Kolkata:20260614T193000
 SUMMARY:AtCoder Regular Contest 222
 DESCRIPTION:https://atcoder.jp/contests/arc222
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260620T173000
+DTEND;TZID=Asia/Kolkata:20260620T193000
+SUMMARY:AtCoder Beginner Contest 463
+DESCRIPTION:https://atcoder.jp/contests/abc463
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260627T173000
