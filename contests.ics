@@ -13,12 +13,6 @@ SUMMARY:Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2229
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20260521T200500
-DTEND;TZID=Asia/Kolkata:20260521T220500
-SUMMARY:Codeforces Round 1099 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2231
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260523T000000
 DTEND;TZID=Asia/Kolkata:20260523T020000
 SUMMARY:Weekend Dev Challenge 51: Golang Projects
