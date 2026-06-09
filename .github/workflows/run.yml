@@ -37,8 +37,8 @@ jobs:
     strategy:
       matrix:
         space_url: 
-          - "https://your-username-space-one.hf.space"
-          - "https://your-username-space-two.hf.space"
+          - "https://monish-k-self-correcting-sql-agent.hf.space"
+          - "https://monish-k-agentic-auditor.hf.space"
     steps:
       - name: Ping Hugging Face Space
         run: |
