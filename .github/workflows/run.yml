@@ -1,4 +1,4 @@
-name: Update Contest Calendar
+name: Update Calendar and Ping Spaces
 
 on:
   schedule:
@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
+  # JOB 1: Your existing contest calendar updater
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
@@ -30,3 +30,16 @@ jobs:
           git add contests.ics
           git commit -m "update calendar" || echo "no changes"
           git push
+
+  # JOB 2: The Hugging Face Space pinger
+  ping-spaces:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        space_url: 
+          - "https://your-username-space-one.hf.space"
+          - "https://your-username-space-two.hf.space"
+    steps:
+      - name: Ping Hugging Face Space
+        run: |
+          curl -I "${{ matrix.space_url }}"
