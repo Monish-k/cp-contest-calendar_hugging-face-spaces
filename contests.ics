@@ -60,4 +60,10 @@ DTEND;TZID=Asia/Kolkata:20260711T193000
 SUMMARY:AtCoder Beginner Contest 466
 DESCRIPTION:https://atcoder.jp/contests/abc466
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260718T173000
+DTEND;TZID=Asia/Kolkata:20260718T193000
+SUMMARY:AtCoder Beginner Contest 467
+DESCRIPTION:https://atcoder.jp/contests/abc467
+END:VEVENT
 END:VCALENDAR
