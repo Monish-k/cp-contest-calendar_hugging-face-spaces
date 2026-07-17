@@ -13,12 +13,6 @@ SUMMARY:Codeforces Round 1111 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2247
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20260716T200500
-DTEND;TZID=Asia/Kolkata:20260716T220500
-SUMMARY:Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2245
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260718T000000
 DTEND;TZID=Asia/Kolkata:20260718T020000
 SUMMARY:Weekend Dev Challenge 59: LLD Projects
