@@ -67,6 +67,12 @@ SUMMARY:AtCoder Beginner Contest 469
 DESCRIPTION:https://atcoder.jp/contests/abc469
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20260808T173000
+DTEND;TZID=Asia/Kolkata:20260808T193000
+SUMMARY:JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)
+DESCRIPTION:https://atcoder.jp/contests/abc470
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260809T173000
 DTEND;TZID=Asia/Kolkata:20260809T193000
 SUMMARY:UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)
