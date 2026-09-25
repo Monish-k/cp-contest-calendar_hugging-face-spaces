@@ -21,25 +21,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261010T203500
 DTEND;TZID=Asia/Kolkata:20261010T223500
-SUMMARY:Codeforces Round (Div. 1)
+SUMMARY:Codeforces Round (Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2271
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20261010T203500
-DTEND;TZID=Asia/Kolkata:20261010T223500
-SUMMARY:Codeforces Round (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260926T200500
 DTEND;TZID=Asia/Kolkata:20260926T220500
-SUMMARY:Codeforces Round (Div. 1)
+SUMMARY:Codeforces Round 1124 (Div. 1)
 DESCRIPTION:https://codeforces.com/contest/2268
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20260926T200500
 DTEND;TZID=Asia/Kolkata:20260926T220500
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1124 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2269
 END:VEVENT
 BEGIN:VEVENT
