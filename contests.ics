@@ -7,6 +7,12 @@ SUMMARY:WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2261
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20261014T200500
+DTEND;TZID=Asia/Kolkata:20261014T220500
+SUMMARY:Educational Codeforces Round 195 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2276
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261012T000500
 DTEND;TZID=Asia/Kolkata:20261012T020500
 SUMMARY:Codeforces Round (Div. 1)
