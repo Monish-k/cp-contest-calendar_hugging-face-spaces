@@ -7,6 +7,12 @@ SUMMARY:Kotlin Heroes: Episode 15
 DESCRIPTION:https://codeforces.com/contest/2282
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20261120T200000
+DTEND;TZID=Asia/Kolkata:20261120T220000
+SUMMARY:Kotlin Heroes: Practice 15
+DESCRIPTION:https://codeforces.com/contest/2286
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261115T200500
 DTEND;TZID=Asia/Kolkata:20261115T220500
 SUMMARY:Codeforces Round (Div. 2)
