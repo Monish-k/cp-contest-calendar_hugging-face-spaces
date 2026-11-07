@@ -43,12 +43,6 @@ SUMMARY:Codeforces Round 1133 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2280
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20261106T200500
-DTEND;TZID=Asia/Kolkata:20261106T220500
-SUMMARY:Codeforces Round 1132 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2284
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261109T190005
 DTEND;TZID=Asia/Kolkata:20261109T210005
 SUMMARY:Monday Munch - DSA Challenge 028 (Rated)
