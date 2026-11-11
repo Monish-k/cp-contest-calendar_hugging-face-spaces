@@ -63,8 +63,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261122T173000
 DTEND;TZID=Asia/Kolkata:20261122T193000
-SUMMARY:AtCoder Regular Contest++ 234
-DESCRIPTION:https://atcoder.jp/contests/arc234
+SUMMARY:AtCoder Grand Contest 080
+DESCRIPTION:https://atcoder.jp/contests/agc080
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261128T173000
@@ -81,13 +81,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261213T173000
 DTEND;TZID=Asia/Kolkata:20261213T193000
-SUMMARY:AtCoder Grand Contest 080
-DESCRIPTION:https://atcoder.jp/contests/agc080
+SUMMARY:AtCoder Grand Contest 081
+DESCRIPTION:https://atcoder.jp/contests/agc081
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261227T173000
 DTEND;TZID=Asia/Kolkata:20261227T193000
-SUMMARY:AtCoder Grand Contest 081
-DESCRIPTION:https://atcoder.jp/contests/agc081
+SUMMARY:AtCoder Grand Contest 082
+DESCRIPTION:https://atcoder.jp/contests/agc082
 END:VEVENT
 END:VCALENDAR
