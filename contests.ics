@@ -85,6 +85,12 @@ SUMMARY:AtCoder Grand Contest 080
 DESCRIPTION:https://atcoder.jp/contests/agc080
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20261220T173000
+DTEND;TZID=Asia/Kolkata:20261220T193000
+SUMMARY:UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)
+DESCRIPTION:https://atcoder.jp/contests/abc489
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20261227T173000
 DTEND;TZID=Asia/Kolkata:20261227T193000
 SUMMARY:AtCoder Grand Contest 081
